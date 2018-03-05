@@ -12,4 +12,4 @@ push:
         tag:  1
         repository: rep
         registry: https://index.docker.io/v2/
-        cmd: node hello.js
+        cmd: node /pipeline/source/hello.js
