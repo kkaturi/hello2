@@ -10,6 +10,6 @@ push:
         username: kkaturi
         password: kkaturi
         tag:  1
-        repository: rep
+        repository: kkaturi/rep
         registry: https://index.docker.io/v2/
         cmd: node /pipeline/source/hello.js
