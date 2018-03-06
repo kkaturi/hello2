@@ -9,7 +9,7 @@ push:
     - internal/docker-push:
         username: kkaturi
         password: kkaturi
-        tag:  1
+        tag:  2
         repository: kkaturi/rep
         #registry: https://index.docker.io/v2/
         registry: https://registry-1.docker.io/v2/
