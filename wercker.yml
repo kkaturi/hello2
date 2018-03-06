@@ -14,4 +14,4 @@ push:
         #registry: https://index.docker.io/v2/
         registry: https://registry-1.docker.io/v2/
         cmd: node /pipeline/source/hello.js
-        expose:1337
+        expose: 1337
